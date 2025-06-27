@@ -69,6 +69,7 @@
     text-decoration: none;
 }
 
+
 .right {
     display: flex;
     gap: 20px;
@@ -112,9 +113,9 @@
 
  .side2 {
     background-color: black;
-    margin-left: 70px;
+    margin-left: 0px;
     margin-top: 30px;
-    padding: 50px 30px;
+    padding: 50px 70px;
  }
 
  .side2 h2 {
@@ -141,6 +142,11 @@
  .side3 {
    margin-top: 30px;
    background-color: black;
+   width: 55%;
+ }
+
+ .side3 img {
+   margin-left: 200px;
  }
 
  .section2 img {
